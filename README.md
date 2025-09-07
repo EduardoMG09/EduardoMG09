@@ -46,7 +46,6 @@ Actualmente estudio y trabajo como **desarrollador de software**.
 ---
 
 ## 📈 Estadísticas de GitHub
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduardoMG09&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
@@ -55,7 +54,7 @@ Actualmente estudio y trabajo como **desarrollador de software**.
 
 - 📧 lalito2003mg@gmail.com  
 - 💼 www.linkedin.com/in/jorge-martinez-890072215  
-- 🌐 https://dashboard.render.com/web/srv-d0gef324d50c73fp400g
+- 🌐 https://portafolio-web-2.onrender.com/
 
 ---
 

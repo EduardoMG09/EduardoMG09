@@ -3,7 +3,7 @@
 
 ¡Bienvenido a mi perfil de **GitHub**! 🚀  
 Soy **estudiante de Ingeniería Telemática** en el **Instituto Politécnico Nacional (IPN)**, tengo 22 años, apasionado por la tecnología, el desarrollo de software y la creación de soluciones innovadoras.  
-Actualmente estudio y trabajo como **desarrollador de software**.
+Actualmente estudio y trabajo como **desarrollador de software**, ademas de estudiar las nuevas tecnologias y softwares.
 
 ---
 

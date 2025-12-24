@@ -52,7 +52,7 @@ Actualmente estudio y trabajo como **desarrollador de software**, ademas de estu
 
 ## 📫 Contacto
 
-- 📧 lalito2003mg@gmail.com  
+- 📧 eduardo.mg2309@gmail.com  
 - 💼 www.linkedin.com/in/jorge-martinez-890072215  
 - 🌐 https://eduardo.febacode.com/
 

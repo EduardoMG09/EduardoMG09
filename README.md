@@ -33,11 +33,12 @@ Actualmente estudio y trabajo como **desarrollador de software**, ademas de estu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
 
 
 **Lenguajes y Herramientas:**
-- **Lenguajes:** Python · C · C# · Java · JavaScript
+- **Lenguajes:** Python · C · C# · Java · JavaScript · TypeScript
 - **Frameworks / Librerías:** Node.js · React
 - **Bases de datos:** SQL · PostgreSQL
 - **Herramientas:** Git · Docker · Linux
@@ -56,6 +57,3 @@ Actualmente estudio y trabajo como **desarrollador de software**, ademas de estu
 - 💼 www.linkedin.com/in/jorge-martinez-890072215  
 - 🌐 https://eduardo.febacode.com/
 
----
-
-✨ _"La mejor manera de predecir el futuro es crearlo."_ ✨
